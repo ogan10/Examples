@@ -1,0 +1,15 @@
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\bin\Debug\net6.0\Example001_HellosConsole.exe
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\bin\Debug\net6.0\Example001_HellosConsole.deps.json
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\bin\Debug\net6.0\Example001_HellosConsole.runtimeconfig.json
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\bin\Debug\net6.0\Example001_HellosConsole.dll
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\bin\Debug\net6.0\Example001_HellosConsole.pdb
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\Example001_HellosConsole.csproj.AssemblyReference.cache
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\Example001_HellosConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\Example001_HellosConsole.AssemblyInfoInputs.cache
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\Example001_HellosConsole.AssemblyInfo.cs
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\Example001_HellosConsole.csproj.CoreCompileInputs.cache
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\Example001_HellosConsole.dll
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\refint\Example001_HellosConsole.dll
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\Example001_HellosConsole.pdb
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\Example001_HellosConsole.genruntimeconfig.cache
+C:\Users\ARMO\OneDrive\Рабочий стол\Examples\Examples\Example001_HellosConsole\obj\Debug\net6.0\ref\Example001_HellosConsole.dll
